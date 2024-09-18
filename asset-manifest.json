@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pandiyang123/Paradise-Nursery.git/static/css/main.cf9fcc36.css",
+    "main.js": "/pandiyang123/Paradise-Nursery.git/static/js/main.3e050ae2.js",
+    "static/media/background.jpg": "/pandiyang123/Paradise-Nursery.git/static/media/background.4b7ca03993c07b762aa8.jpg",
+    "index.html": "/pandiyang123/Paradise-Nursery.git/index.html",
+    "main.cf9fcc36.css.map": "/pandiyang123/Paradise-Nursery.git/static/css/main.cf9fcc36.css.map",
+    "main.3e050ae2.js.map": "/pandiyang123/Paradise-Nursery.git/static/js/main.3e050ae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf9fcc36.css",
+    "static/js/main.3e050ae2.js"
+  ]
+}
