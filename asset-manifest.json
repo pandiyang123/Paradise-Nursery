@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pandiyang123/Paradise-Nursery.git/static/css/main.cf9fcc36.css",
-    "main.js": "/pandiyang123/Paradise-Nursery.git/static/js/main.3e050ae2.js",
-    "static/media/background.jpg": "/pandiyang123/Paradise-Nursery.git/static/media/background.4b7ca03993c07b762aa8.jpg",
-    "index.html": "/pandiyang123/Paradise-Nursery.git/index.html",
-    "main.cf9fcc36.css.map": "/pandiyang123/Paradise-Nursery.git/static/css/main.cf9fcc36.css.map",
-    "main.3e050ae2.js.map": "/pandiyang123/Paradise-Nursery.git/static/js/main.3e050ae2.js.map"
+    "main.css": "/Paradise-Nursery/static/css/main.9cb849ba.css",
+    "main.js": "/Paradise-Nursery/static/js/main.3e050ae2.js",
+    "static/media/background.jpg": "/Paradise-Nursery/static/media/background.4b7ca03993c07b762aa8.jpg",
+    "index.html": "/Paradise-Nursery/index.html",
+    "main.9cb849ba.css.map": "/Paradise-Nursery/static/css/main.9cb849ba.css.map",
+    "main.3e050ae2.js.map": "/Paradise-Nursery/static/js/main.3e050ae2.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf9fcc36.css",
+    "static/css/main.9cb849ba.css",
     "static/js/main.3e050ae2.js"
   ]
 }
